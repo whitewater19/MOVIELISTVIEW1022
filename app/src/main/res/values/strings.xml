@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_title">MOVIELISTVIEW1022</string>
+    <string name="app_name">電影名稱</string>
+    <string name="app_date">上映日期</string>
+    <string name="app_info">劇情大綱</string>
+</resources>
